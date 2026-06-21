@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## Unreleased
 
+## 0.1.12 - 2026-06-20
+
+### Fixed:
+
+Fixed libdave parity, improved reliability in encryption and video processing ([#17](https://github.com/Snazzah/davey/issues/17))
+
 ## 0.1.11 - 2026-03-28
 
 ### Fixed:
