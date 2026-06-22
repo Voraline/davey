@@ -8,7 +8,8 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed:
 
-Fixed libdave parity, improved reliability in encryption and video processing ([#17](https://github.com/Snazzah/davey/issues/17))
+- Fixed libdave parity, improved reliability in encryption and video processing ([#17](https://github.com/Snazzah/davey/issues/17))
+- Updated NAPI-RS and emapi to fix WASM builds.
 
 ## 0.1.11 - 2026-03-28
 
